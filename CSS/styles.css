@@ -1,0 +1,72 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+.logo {
+  width: 100px;
+  height: 100px;
+}
+.map {
+  max-width: 200px;
+  height: auto;
+  float: right;
+  margin-right: 260px;
+  margin-top: 130px;
+}
+.reference {
+  text-align: right;
+}
+
+main {
+  position: relative;
+  padding-left: 160px;
+}
+
+li {
+  text-align: left;
+}
+
+header {color: #43a664;
+background-color: white;
+text-align: center;
+font-size: 16px;
+display: block;
+margin-right: 300px;
+}
+
+p {
+  width: 1000px;
+}
+
+.footer {
+    width: auto;
+}
+
+nav { color: black;
+background-color: #dadbda;
+width: 150px;
+height: 100%;
+display: inline-block;
+margin-right: 30px;
+text-align: center;
+font-size: 14px;
+font-color: black;
+position: absolute;
+left: 0;
+}
+
+section {
+  width: 640px;
+  display: inline-block;
+  padding: 10px;
+}
+footer {
+  width: 1210px;
+  background-color: #43a664;
+  color: white;
+  display: block;
+  text-align: center;
+}
+.img1 {
+  width: 500px;
+  height: 500px;
+}
