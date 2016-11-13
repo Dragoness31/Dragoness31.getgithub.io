@@ -11,6 +11,7 @@
   float: right;
   margin-right: 260px;
   margin-top: 130px;
+  padding-left: 20px;
 }
 .reference {
   text-align: right;
@@ -23,6 +24,12 @@ main {
 
 li {
   text-align: left;
+}
+
+ul{
+  list-style: none;
+  padding: 20px;
+  margin: 0;
 }
 
 header {color: #43a664;
@@ -48,7 +55,7 @@ height: 100%;
 display: inline-block;
 margin-right: 30px;
 text-align: center;
-font-size: 14px;
+font-size: 15px;
 font-color: black;
 position: absolute;
 left: 0;
